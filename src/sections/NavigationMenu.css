@@ -1,0 +1,36 @@
+#navbar {
+    position: fixed;
+    
+    
+  }
+  
+  /* Navbar links */
+  #navbar a {
+    float: right;
+    display: block;
+    color: #f67e7d;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 23px;
+    position: relative;
+    left: 540px
+  }
+  
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+

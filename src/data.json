@@ -1,0 +1,81 @@
+{
+    "title": "Hello , I'm Ashkan!",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast | Engineer | Air rifle Shooter",
+    "links":{
+        "github" : "https://github.com/",
+        "email": "mailto:ashkanshojaee48@gmail.com",
+        "linkedin": "https://linkedin.com/in/ashkan-shojaee-b4b1381b9",
+        "instagram":"https://instagram.com/ashkanshojaee.ir",
+        "whatsapp":"https://whatsapp.me/+989129492977"
+    },
+    "sections" : [
+        {
+            "title" : "About me",
+            "items" : [
+                {
+                    "type": "p",
+                    "content" : "My Name is Ashkan Shojaee | I was born in 1996 | Master of Polymer Engineering",
+                    "desc": "I am always energetic and eager to learn new skills. Experience has proven that I am hardworking and always the last person to leave the office in the evening and I will not leave the workplace until I have done the work assigned to me.I am motivated to go to the shooting club before or after work to have enough focus and the highest efficiency."
+                }
+            ]
+        },
+        {
+            "title" : "Skills",
+            "items":[
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image":"react.png",
+                        "title": "React",
+                        "time":"1 years experimentally"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image":"wordpress.png",
+                        "title": "Wordpress",
+                        "time":"10 years experimentally"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image":"php.png",
+                        "title": "php",
+                        "time":"2 years experimentally"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image": "html.png",
+                        "title": "HTML",
+                        "time":"5 years experimentally"                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image":"css.png",
+                        "title": "CSS",
+                        "time": "5 years experimentally"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image":"logojs.png",
+                        "title": "Javascript",
+                        "time":"5 years experimentally"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down":"down.png"
+    },
+    "fun":{
+        "magic" : "magic.png"
+    }
+}
